@@ -1,4 +1,4 @@
-## GAANA
+## Songs Web App
 
 To run this code, you need **node.js** and **mysql server** installed on your system.
 
